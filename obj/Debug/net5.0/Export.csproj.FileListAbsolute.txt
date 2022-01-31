@@ -1,0 +1,16 @@
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.exe
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.deps.json
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.runtimeconfig.json
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.runtimeconfig.dev.json
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.dll
+D:\Coding\C#\Export\bin\Debug\net5.0\Export.pdb
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.AssemblyInfoInputs.cache
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.AssemblyInfo.cs
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.dll
+D:\Coding\C#\Export\obj\Debug\net5.0\ref\Export.dll
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.pdb
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.genruntimeconfig.cache
+D:\Coding\C#\Export\obj\Debug\net5.0\Export.csproj.AssemblyReference.cache
+D:\Coding\C#\Export\bin\Debug\net5.0\ref\Export.dll
